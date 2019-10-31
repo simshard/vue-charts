@@ -12,7 +12,7 @@
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: "Chartbox",
   data: () => ({
     chartOptionsBar: {
       xAxis: {
