@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^3.3.2",
     "echarts": "^4.4.0",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vue-echarts": "^4.0.4"
   },
   "devDependencies": {
